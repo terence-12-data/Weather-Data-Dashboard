@@ -1,23 +1,43 @@
-# Weather-Data-Dashboard
+ Weather Data Analysis Dashboard 
 
-🌦️ Weather Data Dashboard 🌦️
+I’m excited to share another project I created using Power BI! 📊
 
-I'm excited to share a recent project I completed using Power BI! 📊
+This dashboard provides a comprehensive overview of US weather data (2006–2016) and helps analyze key weather patterns and trends.
 
-This dashboard provides a comprehensive overview of weather data, including:
+🔍 Key Insights from the Dashboard:
 
-Precipitation Type: Breakdown of rain, snow, and no rain occurrences.
-Average Wind Bearing: Visualized wind direction.
-Max and Min Temperatures: Extremes recorded over the dataset period.
-Humidity and Max Wind Speed: Key weather indicators.
-Temperature Trends: Historical temperature trends from 2006 to 2016.
-Humidity vs. Wind Speed: Relationship between these variables.
-Daily Summary: Breakdown of daily weather summaries.
+Precipitation Type – Breakdown of rain, snow, and no-rain occurrences
 
-I used this project to improve my data visualization skills and gain deeper insights into weather patterns. 🌐
+Average Wind Bearing – Visualization of wind direction trends
 
-Special thanks to Swapnjeet S, Rishabh Mishra, Kedar Gaikwad, Ojasvi Verma 🌱 for their guidance. 🎓
+Temperature Extremes – Maximum and minimum temperatures over time
 
-Feedback is welcome! Feel free to connect and discuss more about data analytics and visualization. 🤝
+Humidity & Wind Speed – Key weather indicators for climate understanding
 
-hashtag#DataAnalytics hashtag#PowerBI hashtag#WeatherData hashtag#DataVisualization hashtag#DataScience hashtag#Analytics hashtag#DataDashboard
+Temperature Trends (2006–2016) – Long-term shifts in temperature patterns
+
+Humidity vs. Wind Speed – Correlation between these two factors
+
+Daily Summaries – Day-to-day variations in weather conditions
+
+🎯 Objective
+
+The goal of this project was to analyze historical US weather data and build an interactive dashboard to identify patterns, correlations, and anomalies.
+
+🛠️ Tools & Technologies
+
+Power BI – for visualization & dashboard design
+
+Excel dataset – for data preprocessing and input
+
+✅ Status
+
+Completed
+
+🙌 Credits
+
+Dataset: Kaggle (US Weather Dataset)
+
+Special thanks to Swapnjeet S, Rishabh Mishra, Kedar Gaikwad, Ojasvi Verma 🌱 for their guidance 🎓
+
+💡 This project helped me improve my data visualization skills and gain deeper insights into weather analytics.
